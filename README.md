@@ -1,2 +1,1 @@
-# graphql-test
-This is a test repository
+Some content for the file
